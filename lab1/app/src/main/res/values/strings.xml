@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="enter_password">Введіть пароль</string>
+    <string name="show_password">Показати символи</string>
+    <string name="hide_password">Приховати символи</string>
+    <string name="ok_button">OK</string>
+</resources>
