@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="enter_password">Введіть пароль</string>
+    <string name="show_password">Показати символи</string>
+    <string name="hide_password">Приховати символи</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="open_button">Відкрити</string>
+    <string name="back_button">Назад</string>
+    <string name="save_success">Дані успішно збережено</string>
+    <string name="no_data">Немає збережених даних</string>
+    <string name="stored_passwords">Збережені паролі</string>
+</resources>
